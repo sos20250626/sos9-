@@ -63,4 +63,4 @@ Telegram频道传送门：推荐高质量Telegram频道，覆盖热点爆料、�
 
 黑料大事记通过系统梳理娱乐圈重大爆料事件，清晰呈现时间线与各阶段舆论走向，不仅揭示事件真相，也反映网络舆情变化，是追踪娱乐风暴背后逻辑的重要资料库。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/sos20250626/sos9-）</span>
